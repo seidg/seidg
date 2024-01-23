@@ -3,7 +3,7 @@
 
 - 부족하다면 배우고, 빈틈이 있다면 꼼꼼하게 채워가는게 목표인 개발자입니다!
 
-Skill
+#### Skill
 <br>
 #### Language
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
