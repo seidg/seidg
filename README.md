@@ -1,4 +1,5 @@
 
+- 부족하다면 배우고, 빈틈이 있다면 꼼꼼하게 채워가는게 목표인 개발자입니다!
 
 Skill
 <br>
@@ -12,7 +13,7 @@ Skill
 
 #### Back-End
 ![Spring boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### ETC
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
